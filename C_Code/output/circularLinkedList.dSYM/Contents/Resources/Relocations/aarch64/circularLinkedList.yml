@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Volumes/AnmolVishw/DailyCode/C_Code/output/circularLinkedList'
+relocations:     []
+...
