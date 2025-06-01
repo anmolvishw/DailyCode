@@ -9,7 +9,7 @@ public class reverseVowel {
 
     public static String fun(String str){
         char []ch = str.toCharArray();
-
+ 
         int s = 0;
         int e = str.length()-1;
 
@@ -25,6 +25,7 @@ public class reverseVowel {
                     s++; e--;
             }
         }
+        System.out.println(ch.length);
         str = new String(ch);
 
         return str;

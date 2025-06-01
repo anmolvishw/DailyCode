@@ -25,7 +25,7 @@ public class rotateArraybyd {
     }
     public static void main(String[] args) {
         int arr[] = {7,4,5,31,2,0,11,7};
-        int d = 3;
+        int d = 1;
 
 
         System.out.println("Before Left Rotate by "+d+" : "+Arrays.toString(arr));
